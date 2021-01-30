@@ -15,7 +15,7 @@ class Contact extends Component {
     }
 
     return (
-      <section id="contact">
+      <section style={{backgroundColor:"#1F1F1F"}} id="contact">
 
          <div className="row section-head">
 
