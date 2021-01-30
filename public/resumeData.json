@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Md. Joniyed Bhuiyan",
+    "description": "To work in a challenging environment where I can put my best efforts and knowledge to\nreach the respective company’s goals and objectives.",
+    "image": "jb.jpg",
+    "bio": "",
+    "contactmessage": "Please your share query with me...",
+    "email": "joniyed.bhuiyan@gmail.com",
+    "phone": "01794599066",
+    "github": "https://github.com/Joniyed-Bhuiyan-jb7",
+    "project": "https://github.com/Joniyed-Bhuiyan-jb7",
+    "address": {
+      "street": "",
+      "city": "Dhaka",
+      "state": "Bangladesh",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jbjoniyed7/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "#",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joniyed-bhuiyan",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Joniyed-Bhuiyan-jb7",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Southeast University",
+        "degree": "Bachelor of Science",
+        "graduated": "2021",
+        "description": "Completed BSc in Computer Science and Technology"
+      }
+    ],
+    "work": [
+      {
+        "company": "Zaag System Ltd.",
+        "title": "Internship",
+        "years": "October 2020 - Present",
+        "description": "Working as Backend developer."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JAVA",
+        "level": "97%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "92%"
+      },
+      {
+        "name": "HiberNate",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "React.Js",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "87%"
+      },
+      {
+        "name": "CSS",
+        "level": "67%"
+      },
+      {
+        "name": "MySQL",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mess Management System",
+        "category": "My mess system for dynamically calculate all the accounting... ",
+        "image": "mess.jpg",
+        "url": "https://mess-management-frontend.herokuapp.com/login"
+      },
+      {
+        "title": "Library Management System",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "library.jpg",
+        "url": "https://github.com/Joniyed-Bhuiyan-jb7/jb-library"
+      },
+      {
+        "title": "Blood Bank Management System",
+        "category": "Website I built for blood related issue.",
+        "image": "original-thai-food.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Login With Google and Facebook",
+        "category": "A android application for OAuth2",
+        "image": "smirkspace.jpg",
+        "url": "#"
+      }
+    ]
+  }
+}
