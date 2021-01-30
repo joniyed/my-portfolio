@@ -36,7 +36,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   
+
    text-align: center;
    overflow: hidden;
 }
@@ -1019,14 +1019,24 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .social .btn{
    padding-left: 30px;
-   padding-right: 30px; 
+   padding-right: 30px;
 }
 .social .btn i{
    margin-right: 15px;
 }
 .project-btn{
-   background-color: #1abc9c !important;
+   background-color: #14211c !important;
+    border-radius: 10px;
 }
 .github-btn{
-   background-color: #34495e !important;
+   background-color: #021321 !important;
+    border-radius: 10px;
+}
+
+.project-btn:hover{
+    background-color: #b60000 !important;
+}
+
+.github-btn:hover{
+    background-color: #000000 !important;
 }

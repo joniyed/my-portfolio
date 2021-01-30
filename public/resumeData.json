@@ -52,7 +52,22 @@
         "school": "Southeast University",
         "degree": "Bachelor of Science",
         "graduated": "2021",
-        "description": "Completed BSc in Computer Science and Technology"
+        "cgpa":"3.91 out of 4",
+        "description": "Completed BSc in Computer Science and Engineering with CGPA 3.91 out of 4.00"
+      },
+      {
+        "school": "Brahmanbaria Government College",
+        "degree": "Higher Secondary",
+        "graduated": "2016",
+        "cgpa": "4.33 out of 5.00",
+        "description": "I completed my HSC from here with 4.33 out of 5.00"
+      },
+      {
+        "school": "Ghulkhar Ranikhar High School",
+        "degree": "Secondary",
+        "graduated": "2014",
+        "cgpa": "5.00 out of 5.00",
+        "description": "Completed my SSC with 5.00 out of 5.00. Which was a great result in my school history"
       }
     ],
     "work": [
@@ -78,7 +93,7 @@
       },
       {
         "name": "Javascript",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "React.Js",
@@ -116,7 +131,7 @@
       },
       {
         "title": "Library Management System",
-        "category": "(offline now) A fighting gear company I started",
+        "category": "",
         "image": "library.jpg",
         "url": "https://github.com/Joniyed-Bhuiyan-jb7/jb-library"
       },
