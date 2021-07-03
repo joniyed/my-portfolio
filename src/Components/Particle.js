@@ -8,7 +8,7 @@ function Particle() {
                 params={{
                     "particles": {
                         "number": {
-                            "value": 8,
+                            "value": 10,
                             "density": {
                                 "enable": true,
                                 "value_area": 800
@@ -48,12 +48,12 @@ function Particle() {
                             "value": "#CCC"
                         },
                         "size": {
-                            "value": 30,
+                            "value": 1,
                             "random": false,
                             "anim": {
                                 "enable": true,
-                                "speed": 4,
-                                "size_min": 10,
+                                "speed": 2,
+                                "size_min": 20,
                                 "sync": false
                             }
                         }

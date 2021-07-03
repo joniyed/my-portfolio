@@ -1,14 +1,14 @@
 {
   "main": {
-    "name": "Mahabub Hossain Sazib",
+    "name": "Md. Joniyed Bhuiyan",
     "description": "To work in a challenging environment where I can put my best efforts and knowledge to\nreach the respective company’s goals and objectives.",
     "image": "jb.jpg",
     "bio": "",
     "contactmessage": "Please your share query with me...",
     "email": "joniyed.bhuiyan@gmail.com",
     "phone": "01794599066",
-    "github": "https://github.com/Joniyed-Bhuiyan-jb7",
-    "project": "https://github.com/Joniyed-Bhuiyan-jb7",
+    "github": "https://github.com/joniyed",
+    "project": "https://oushodsheba.com/",
     "address": {
       "street": "",
       "city": "Dhaka",
@@ -40,7 +40,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/Joniyed-Bhuiyan-jb7",
+        "url": "https://github.com/joniyed",
         "className": "fa fa-github"
       }
     ]
@@ -52,7 +52,7 @@
         "school": "Southeast University",
         "degree": "Bachelor of Science",
         "graduated": "2021",
-        "cgpa":"3.91 out of 4",
+        "cgpa": "3.91 out of 4",
         "description": "Completed BSc in Computer Science and Engineering with CGPA 3.91 out of 4.00"
       },
       {
@@ -73,8 +73,14 @@
     "work": [
       {
         "company": "Zaag System Ltd.",
+        "title": "Assistant Software Engineer",
+        "years": "February 2021 - Present",
+        "description": "Working as Assistant Software Engineer"
+      },
+      {
+        "company": "Zaag System Ltd.",
         "title": "Internship",
-        "years": "October 2020 - Present",
+        "years": "October 2020 - January 2020",
         "description": "Working as Backend developer."
       }
     ],
@@ -130,10 +136,16 @@
         "url": "https://mess-management-frontend.herokuapp.com/login"
       },
       {
+        "title": "Club Website",
+        "category": "",
+        "image": "intro-bg-1.jpg",
+        "url": "https://dharkhar-hilfulfujul.vercel.app/"
+      },
+      {
         "title": "Library Management System",
         "category": "",
         "image": "library.jpg",
-        "url": "https://github.com/Joniyed-Bhuiyan-jb7/jb-library"
+        "url": "https://github.com/joniyed/jb-library"
       },
       {
         "title": "Blood Bank Management System",
