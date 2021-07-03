@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import Particle from "./Particle";
 
 class About extends Component {
     render() {
@@ -47,7 +46,6 @@ class About extends Component {
                         </div>
                     </div>
                 </div>
-                <Particle/>
             </section>
         );
     }
